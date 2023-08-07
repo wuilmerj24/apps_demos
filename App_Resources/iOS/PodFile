@@ -1,0 +1,1 @@
+pod 'HGCircularSlider', :git => 'https://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@github.com/MariaC15/circularslider_swift.git', :branch => 'master'
